@@ -1,3 +1,6 @@
+
+#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/Host.dconf interval=86400 strict=true
+
 [Host]
 yuanlam.xyz = 8.210.191.7
 yly.eatuo.com = 8.210.191.7
