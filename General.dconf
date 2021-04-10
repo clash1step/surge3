@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://dler.cloud/subscribe/DRg8uuh8GAAKRFrC?surge=3&match=%20cc interval=86400 strict=true
+#!MANAGED-CONFIG https://raw.githubusercontent.com/clash1step/surge3/main/General.dconf interval=86400 strict=true
 
 ## 通用设置
 [General]
