@@ -1,3 +1,5 @@
+#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/Replica.dconf interval=86400 strict=true
+
 [Replica]
 # ---(实验性功能)---
 # 0 为关闭，1 为开启
