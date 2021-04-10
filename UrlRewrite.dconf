@@ -1,3 +1,5 @@
+#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/UrlRewrite.dconf interval=86400 strict=true
+
 [URL Rewrite]
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
