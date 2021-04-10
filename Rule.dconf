@@ -1,3 +1,5 @@
+#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/Rule.dconf interval=86400 strict=true
+
 [Rule]
 # > 需要直连的链接
 RULE-SET,http://yly-studio.in/clash1step/lhie1/src/branch/master/Surge/Surge%203/Provider/Special.list,⭕️Direct
