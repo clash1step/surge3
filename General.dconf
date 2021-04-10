@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://raw.githubusercontent.com/clash1step/surge3/main/General.dconf interval=86400 strict=true
+#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/General.dconf interval=86400 strict=true
 
 ## 通用设置
 [General]
