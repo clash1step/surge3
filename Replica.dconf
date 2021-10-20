@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG http://yly-studio.in/clash1step/surge3/raw/branch/main/Replica.dconf interval=86400 strict=true
+#!MANAGED-CONFIG http://077582580.xyz:3000/clash1step/surge3/raw/branch/main/Replica.dconf interval=86400 strict=true
 
 [Replica]
 # ---(实验性功能)---
